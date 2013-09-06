@@ -1,0 +1,5 @@
+This is a text file for GIT testing.
+
+Line 1: Dummy text here
+Line 2: Git Git aaa bbbbbb ccc 1111
+Line 3: 1245=====
